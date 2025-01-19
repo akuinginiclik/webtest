@@ -11,4 +11,4 @@ __powered by:__
 - [sass](http://sass-lang.com)
 - [compass](http://compass-style.org)
 - [octicons](https://github.com/styleguide/css/7.0)
-# xeromz69.github.io
+# adamyd.web.id
